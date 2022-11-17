@@ -1,0 +1,30 @@
+Tract Name,Tract ID ,Cesspool Count,Priority Category,Island-Specific Priority Rank,Final_Prioity_Score,Island ,In_2017_CP_zone,,,
+ Ha'ena-Hanalei,283,554,Priority 1,1,142.5660189,Kauai,0.445848375,High,,Priority Priority 1
+ Kekaha-Waimea,286,1210,Priority 1,2,124.6513161,Kauai,0,High,,Priority Priority 1
+ Wailua Homesteads,281,1235,Priority 1,3,110.7147022,Kauai,1,High,,Priority Priority 1
+ Kapa'a,288,2276,Priority 2,4,96.31806423,Kauai,0.37258348,Medium,,Priority Priority 2
+ Wailua Houselots,282,1616,Priority 2,5,95.91102814,Kauai,0.989480198,Medium,,Priority Priority 2
+ Koloa-Po'ipu,279,671,Priority 2,6,94.64656574,Kauai,0.988077496,Medium,,Priority Priority 2
+ Anahola,290,980,Priority 2,7,89.59235137,Kauai,0.381632653,Medium,,Priority Priority 2
+ Lihu'e,285,601,Priority 2,8,89.47323468,Kauai,0,Medium,,Priority Priority 2
+ Puhi-Hanama'ulu,284,362,Priority 2,9,85.28632208,Kauai,0,Medium,,Priority Priority 2
+ Kaumakani-Hanapepe,287,457,Priority 3,10,80.11632123,Kauai,0,Low,,Priority Priority 3
+ Omao-Kukui'ula,280,916,Priority 3,11,78.40211123,Kauai,1,Low,,Priority Priority 3
+ Princeville-Kilauea,278,1233,Priority 3,12,69.78666566,Kauai,0.00405515,Low,,Priority Priority 3
+ Eleele-Kalaheo,289,2189,Priority 3,13,59.01615895,Kauai,0.922795797,Low,,Priority Priority 3
+,,,,,,,,,,
+,,,,,,,,,,
+Tract Name,Tract ID ,Cesspool Count,Priority Category,Island-Specific Priority Rank,,,,,,
+ Ha'ena-Hanalei,283,554,Priority 1,1,,,,,,"2999, with 6506 and 4795"
+ Kekaha-Waimea,286,1210,Priority 1,2,,,,"14,300",2999,0.20972028
+ Wailua Homesteads,281,1235,Priority 1,3,,,,,6506,0.454965035
+ Kapa'a,288,2276,Priority 2,4,,,,,4795,0.335314685
+ Wailua Houselots,282,1616,Priority 2,5,,,,,,
+ Koloa-Po'ipu,279,671,Priority 2,6,,,,,,
+ Anahola,290,980,Priority 2,7,,,,,,
+ Lihu'e,285,601,Priority 2,8,,,,,,
+ Puhi-Hanama'ulu,284,362,Priority 2,9,,,,,,
+ Kaumakani-Hanapepe,287,457,Priority 3,10,,,,,,
+ Omao-Kukui'ula,280,916,Priority 3,11,,,,,,
+ Princeville-Kilauea,278,1233,Priority 3,12,,,,,,
+ Eleele-Kalaheo,289,2189,Priority 3,13,,,,,,
