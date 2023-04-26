@@ -1,0 +1,8 @@
+The following files were removed and can be accessed in the archived version of the repository at: 
+https://doi.org/10.5281/zenodo.7329880
+ 
+
+
+Cesspools_where_Ecosystem_values_w_nulls.dbf is -  331.682098mb, path is ..\Report_maps\Maps\Data\Cesspools_where_Ecosystem_values_w_nulls.dbf
+OSDA_Testv1.dbf is -  331.682098mb, path is ..\Report_maps\Maps\Data\OSDA_Testv1.dbf
+OSDS_MASTER_RiskFactors_v6_NOKAITLINtest.dbf is -  326.86085mb, path is ..\Report_maps\Maps\Data\OSDS_MASTER_RiskFactors_v6_NOKAITLINtest.dbf
