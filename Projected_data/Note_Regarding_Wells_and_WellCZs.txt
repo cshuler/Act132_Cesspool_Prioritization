@@ -1,0 +1,9 @@
+Please note that precise well data and well capture zone data are sensitive data obtained directly from: 
+
+Well database 
+Hawaii Commission on Water Resources Management - https://dlnr.hawaii.gov/cwrm/
+
+Well Capture Zone Database
+Hawaii Department of Health Safe Drinking Water Branch - https://health.hawaii.gov/sdwb/
+
+Please contact the above agencies for access to these datasets. 

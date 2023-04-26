@@ -1,0 +1,16 @@
+# Using Bobs model .gpr files
+
+on top menu clicked grid --> MODFLOW layers to 2d scatter points
+did computerd heads, turned number of local model layers to 0 for second layer
+
+Then exported th e2d points to shapefile in this directory
+
+Then in arc cleaned no and negative heads data with 
+!HEAD 1! if !HEAD 1!>0 else 0
+
+then interpolated with Kernel Interpolation With Barriers using coastline barrier
+
+THen have to project into WGS84
+
+
+

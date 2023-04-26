@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210422</CreaDate><CreaTime>21481700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20210422" Time="214817">CalculateField Oahu_visitation_2010-2020 Flikr_ID "flk_"+str(int(!FID_!))+"_Oahu" PYTHON_9.3 #</Process></lineage></DataProperties></Esri></metadata>

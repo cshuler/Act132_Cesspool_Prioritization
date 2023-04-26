@@ -1,0 +1,12 @@
+The following files were removed and can be accessed in the archived version of the repository at: 
+https://doi.org/10.5281/zenodo.7329880
+
+
+bidem_wgs.tif is -  176.238248mb, path is ..\Projected_data\DEMs\10mDEM_WGS\bidem_wgs.tif
+Slope_BI.tif is -  799.179722mb, path is ..\Projected_data\DEMs\Slope_WGS\Slope_BI.tif
+Slope_maui_d11.tif is -  155.950361mb, path is ..\Projected_data\DEMs\Slope_WGS\Slope_maui_d11.tif
+Slope_oahu_d31.tif is -  135.498137mb, path is ..\Projected_data\DEMs\Slope_WGS\Slope_oahu_d31.tif
+OSDSv5_DwellDat.dbf is -  176.713656mb, path is ..\Projected_data\OSDS_v5\OSDSv5_DwellDat.dbf
+OSDS_v5_DwellDat.dbf is -  176.713656mb, path is ..\Projected_data\OSDS_v5\Backups\OSDS_v5_DwellDat.dbf
+OSDSv5_DwellDat.dbf is -  176.713656mb, path is ..\Projected_data\OSDS_v5\Backups\Almost_final_Missing_Island\OSDSv5_DwellDat.dbf
+CP_v6_exploded.dbf is -  154.967074mb, path is ..\Projected_data\OSDS_v6\CP_v6_exploded.dbf

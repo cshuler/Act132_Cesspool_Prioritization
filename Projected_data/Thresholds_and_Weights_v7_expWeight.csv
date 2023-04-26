@@ -1,0 +1,24 @@
+Risk_factor,Type,W1_base,W2_eco,W3_anthro,W4_Physical_drive,W5_Value_drivers,T1,T2,T3,Unit,Notes,Type_of_increase
+dist2_coast_m,ascending,4,3,1,1,0,15.24,,,m,threshold per 11-62 (50 ft)  ,exponential
+dist2_Strm_Wtlnd_m,ascending,3,3,1,1,0,15.24,,,m,threshold per 11-62 ,exponential
+dist2_MunWells_m,ascending,5,1,4,1,0,17,,,m,threshold Whittier 2010,linear
+dist2_DomWells_m,ascending,4,1,1,1,0,8.5,,,m,threshold Whittier 2010 divided in half,
+WELLCZ,catergorical,3,1,3,2,0,,,,,,
+Dep_to_Water_m,ascending,4,2,2,2,0,4.4,,,m,"depth to water, thresh based on 11-62 (not based on Whittier 2014 pg 4-2)",linear
+OSDS_Density_perAcre,descending,4,2,2,2,0,1.089,0.5445,0.27225,ea/10k sf which is 4.356 units per acre,"per 10ksf, = 4.356 per acre  as threshold per 11-62  ",linear
+SLR,catergorical,3,2,2,2,0,,,,catergory,"in SLR 2030=P1, 2050=P2, 2100=P3, Not=P4",catergory
+Soil_Suitability,CustomScale,2,2,2,2,0,,,,,,
+rainfall_in,ascending,2,1,1,1,0,8,,,inches,using current lowest value from OSDS dataset,
+UserDays,descending,2,1,3,0,1,100,,,,,
+Coral,catergorical,3,4,1,0,1.33,,,,,,
+Fish,catergorical,3,2,1,0,0.66,,,,,,
+Swim_beach,catergorical,2,1,3,0,1,,,,,,
+PepPerHos,minMaxScaled,1,2,2,2,0,,,,,,
+Wave_pwr,ascending,2,3,2,2,0,1.59,,,,,25% quartile representing most sheltered areas
+nrcs_ksat_rep_bottomseepage,ascending,,,,,,1.1,,2.8,ft/day,need to verify units and adjust thresholds if so,NRCS reference 
+nrcs_ksat_rep_slowwater,ascending,,,,,,1.2,4,12,ft/day,,NRCS reference 
+nrcs_DtoBrock,ascending,,,,,,100,200,200,cm,,NRCS reference 
+slope_deg,descending,,,,,,15,8,8,%,Thresholds are actually in percent,NRCS reference 
+nrcs_ksat_rep_filtering,descending,,,,,,12,,12,ft/day,,NRCS reference 
+nrcs_rockFrag3in,descending,,,,,,50,25,25,%,,NRCS reference 
+nrcs_FloodFreq,catergorical,,,,,,,,,catergory,none=P4 to frequent = P1,catergory
