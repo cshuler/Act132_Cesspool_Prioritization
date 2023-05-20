@@ -1,8 +1,17 @@
 # Act132_Cesspool_Prioritization
- Codebase for the DoH sponsored cesspool prioritization update by SeaGrant and WRRC, 2021
+ ###### Codebase for the DoH sponsored cesspool prioritization update by SeaGrant and WRRC, 2021
+ 
+ 
+
+ For more information please see the The HCPT landing page at:
+ ## http://hawaiicesspooltool.org/
+ 
+This site is the primary link to an  ecosystem of cesspool resources, videos, tools, the HCPT Inputs App and Public Results App and information about the HCPT and cesspool conversion in general.
 
 Full project documenation can be found in the most updated HCPT project report here: 
 https://health.hawaii.gov/wastewater/files/2022/11/prioritizationtoolreport.pdf
+
+
 
 
 Cesspools are a substandard sewage disposal method and widely recognized to harm human health and the environment. The state of Hawai‘i has an estimated 82,000 cesspools. To address pollution concerns, the Hawai‘i State Legislature mandated replacement of all cesspools by 2050. A major step in achieving this goal is to categorize cesspools based on potential or realized harm to humans and the environment. This report details a comprehensive tool designed for this purpose. After researching similar efforts, methods and datasets were chosen that met the needs of state government, cultural values, and environmental sensitivities. The Hawai‘i Cesspool Prioritization Tool (HCPT) was developed by integrating fifteen risk-factors that either control or relate to how cesspool impacts are distributed across communities and the environment. These factors were processed with a geospatial model to calculate a single prioritization score for every cesspool in Hawai‘i. Because sewage pollution impacts are cumulative, individual scores were consolidated by census boundary areas. Results from the HCPT prioritization were validated through comparison with a statewide assessment of nearshore wastewater impacts funded by Hawai‘i Act 132. Future data, organized within census area frameworks, can be layered onto the results to address equity and outreach challenges. 
