@@ -11,6 +11,8 @@ This site is the primary link to an  ecosystem of cesspool resources, videos, to
 Full project documenation can be found in the most updated HCPT project report here: 
 https://health.hawaii.gov/wastewater/files/2022/11/prioritizationtoolreport.pdf
 
+Large datasets can be found within the project repository at: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7329880.svg)](https://doi.org/10.5281/zenodo.7329880)
 
 
 
